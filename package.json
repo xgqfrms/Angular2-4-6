@@ -1,0 +1,26 @@
+{
+    "name": "angular2-4-6",
+    "version": "1.1.1",
+    "description": "Angular 2.x, 4.x, 6.x & Angular All in One!",
+    "main": "index.js",
+    "scripts": {
+        "test": "ng-app"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xgqfrms/Angular2-4-6.git"
+    },
+    "keywords": [
+        "Angular",
+        "Angular2.x",
+        "Angular4.x",
+        "Angular6.x",
+        "Angular-All-In-One"
+    ],
+    "author": "xgqfrms, webgeeker",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xgqfrms/Angular2-4-6/issues"
+    },
+    "homepage": "https://github.com/xgqfrms/Angular2-4-6#readme"
+}
