@@ -4,7 +4,10 @@
     "description": "Angular 2.x, 4.x, 6.x & Angular All in One!",
     "main": "index.js",
     "scripts": {
-        "test": "ng-app"
+        "app": "cd ng4.x-app & ng serve -o",
+        "ngapp": "cd ng4.x-app & echo 'ng serve is an alias of ng server' & ng server --open",
+        "cmd-copy": "dir | clip",
+        "ng-version": "ng -v | clip"
     },
     "repository": {
         "type": "git",
