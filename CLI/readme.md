@@ -2,6 +2,19 @@
 
 
 ```sh
+
+$ ng new ng4-app --skip-install --ng4
+
+
+$ ng new ng5-app --skip-install
+# stable (v5.0.3)
+# https://angular.io/api
+
+```
+
+
+
+```sh
 # global
 $ npm i -g @angular/cli@latest
 
